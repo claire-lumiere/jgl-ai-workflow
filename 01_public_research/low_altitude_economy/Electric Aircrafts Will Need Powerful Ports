@@ -1,0 +1,34 @@
+An NREL Study Shows That Grid Upgrades Are Needed for eVTOL Charging, But On-Site Generation and Storage Can Help
+March 7, 2024
+Electric vertical take-off and landing (eVTOL) aircraft might quickly move passengers over mountains or float them across urbanscapes. But first, an important consideration for these flying batteries is where they will charge and whether the existing power grid infrastructure can accommodate this demand.
+
+The National Renewable Energy Laboratory (NREL) analyzed this issue for the Federal Aviation Administration (FAA) to help the agency plan around possible growth in eVTOL operations and their effects on the power grid. NREL's findings for FAA are now available in the Federal Aviation Administration Vertiport Electrical Infrastructure Study.
+
+The 18-person NREL team produced the study by surveying aircraft manufacturers and potential vertiport sites, analyzing realistic service routes, and studying the infrastructure investments that could make eVTOL possible. Leveraging several publicly available NREL tools, the authors evaluated the charging demand, costs, emissions, hazards, regulations, and technical requirements of developing electrified vertiport infrastructure at diverse locations.
+
+“We found that potential eVTOL charging demand could impact grid infrastructure and operating parameters considerably,” said NREL researcher Bharat Solanki. “We have shown that this significant increase in demand consumption can be optimized with on-site generation and storage solutions, using microgrids to improve operability and integration.
+
+Where Will Electric Aircrafts Recharge?
+It might seem that any 50-square-foot surface would work as a vertiport, but electrical and airspace requirements set hard constraints. From talking with aircraft manufacturers, the research team determined that for consistent operations, an average vertiport would need 1-megawatt or greater charging capacity. That amount of electricity powers around 800 homes, an amount that typically requires major grid upgrades and years of planning. The NREL team sought to clarify the extent of that prep work for eVTOL charge sites.
+
+“We studied three interrelated pieces of the puzzle for eVTOL vertiports: evaluating in-flight demand, estimating charging demand, and determining grid capability to meet this demand,” Solanki said.
+
+First, the researchers worked with several airports to identify feasible sites for hosting eVTOL operations, including large heliports, a general aviation base, a commercial airport, and a hotel-casino complex. The researchers determined potential routes between these sites and simulated operational use cases to estimate eVTOL charging demand. They concluded that all sites would need to update their local electric infrastructure.
+
+To analyze infrastructure updates, the researchers simulated each site's surrounding electric grid using NREL's SMART-DS tool, then analyzed the impact of each site on grid infrastructure using NREL's Distribution Integration Solution Cost Options (DISCO) software, and then used NREL's REopt tool to determine the optimal blend of renewable resources to power these new landing sites.
+
+What It Takes To Charge an Aircraft
+Utilities will need to be involved early in planning because vertiports are not an everyday load. They would increase site demand by six to seven times in most cases, and utilities would need to upgrade transformers, lines, voltage regulators, protection equipment, and possibly electricity bills and demand charges. Early on, utilities would also need a reasonable idea of the vehicles' charge schedules, to get an idea of its daily load.
+
+An illustrated depiction of electric distribution infrastructure.
+Electric distribution infrastructure, shown from supply to end use, would likely require upgrades to facilitate new eVTOL charging sites. Illustration by NREL
+
+However, the authors also noted options to soften the impact on grid infrastructure and sweeten the economics. Vertiports could be located nearer to existing loads where the increased charging represents a lower proportion of overall demand, and the vertiports could be supported by energy storage and generation, especially distributed renewable energy, which could reduce emissions and take advantage of low-demand periods. Additionally, the study found that vertiports could add jobs and augment the nation's gross domestic product.
+
+Although grid upgrades for vertiports may take a few years, NREL has released tools for utilities to start planning. NREL's free-to-use Electric Vehicle Infrastructure – Energy Estimation and Site Optimization (EVI EnSite) tool can help utilities to design optimal site configurations, model charging profiles, and simulate charging strategies in high detail. An aviation-specific infrastructure tool is on the way but not available for public use just yet. The REopt tool is also freely available for selecting the optimal mix of renewable energy resources.
+
+Apart from infrastructure investments, the study flagged another important consideration: Hazards are common around high-power equipment, especially in a dynamic environment such as an airport. Human errors, technology failures, and typical weather patterns, as well as natural disasters, all play into planning and standardizing safe eVTOL operations. These hazards are reviewed and discussed in the NREL report Overview of Potential Hazards in Electric Aircraft Charging Infrastructure, which includes topics such as battery chemical volatility and personnel training, and in the NREL report Addressing Electric Aviation Infrastructure Cybersecurity Implementation, which discusses cybersecurity hazards.
+
+Next Up for eVTOL at NREL
+This report summarized the major issues related to electric vertiports for the FAA, which is responsible for regulating the rising eVTOL industry. NREL continues to work with FAA in preparing for areas of hydrogen-powered infrastructure and reducing energy demand and boosting resilience for FAA facilities.
+
